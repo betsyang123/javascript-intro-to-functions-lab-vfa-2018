@@ -10,5 +10,7 @@ Function
       return string.toLowerCase
     }
   
+  Function
+    logshout(string)
     
     
